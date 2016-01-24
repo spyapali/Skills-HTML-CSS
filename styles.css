@@ -1,0 +1,23 @@
+/*your CSS goes here*/
+
+.form_color{
+
+		background-color: #FFFF00;
+
+	}
+
+#form_bold{
+
+
+	font-weight: bold;
+
+}
+
+.border{
+
+	border-style: solid; 
+	padding: 2em;
+	width: 500px;
+
+
+}
